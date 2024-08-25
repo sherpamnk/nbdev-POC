@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-POC"
+  site-url: "https://sherpamnk.github.io/nbdev-POC"
+  description: "Using nbdev as proof of concept. This is the first attempt."
+  repo-branch: main
+  repo-url: "https://github.com/sherpamnk/nbdev-POC"
