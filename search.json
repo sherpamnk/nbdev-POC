@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-POC",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev-POC"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-POC",
+    "section": "Install",
+    "text": "Install\npip install nbdev_POC",
+    "crumbs": [
+      "nbdev-POC"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-POC",
+    "section": "How to use",
+    "text": "How to use\nJupyter Notebook along with library called nbdev is used to document knowledges on this project. Jupyter Notebook is an opensource solution. The easiest way is to view the documentation is either use ‘Visual Studio code’ or ‘Azure Data Studio’ available in Software center to self download.Both Azure Data Studio and Visual Studio code are open source. Only users who will be contributing to this has write priveleges.",
+    "crumbs": [
+      "nbdev-POC"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsource\n\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
