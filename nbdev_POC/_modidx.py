@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://sherpamnk.github.io',
                 'git_url': 'https://github.com/sherpamnk/nbdev-POC',
                 'lib_path': 'nbdev_POC'},
-  'syms': {'nbdev_POC.core': {'nbdev_POC.core.foo': ('core.html#foo', 'nbdev_POC/core.py')}}}
+  'syms': { 'nbdev_POC.core': { 'nbdev_POC.core.foo': ('core.html#foo', 'nbdev_POC/core.py'),
+                                'nbdev_POC.core.say_hello': ('core.html#say_hello', 'nbdev_POC/core.py')}}}

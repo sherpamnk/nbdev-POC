@@ -14,10 +14,9 @@ pip install nbdev_POC
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
-
-``` python
-1+1
-```
-
-    2
+Jupyter Notebook along with library called nbdev is used to document
+knowledges on this project. Jupyter Notebook is an opensource solution.
+The easiest way is to view the documentation is either use ‘Visual
+Studio code’ or ‘Azure Data Studio’ available in Software center to self
+download.Both Azure Data Studio and Visual Studio code are open source.
+Only users who will be contributing to this has write priveleges.
